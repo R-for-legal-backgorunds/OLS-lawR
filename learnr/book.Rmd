@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Why R - for people with legal back grounds"
 author: "Biandri Joubert"
 date: '2022-03-31'
 output: html_document
