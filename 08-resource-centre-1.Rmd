@@ -1,3 +1,0 @@
-# Resource centre One 
-
-XXXX
