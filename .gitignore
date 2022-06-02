@@ -37,5 +37,3 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
-
-rm --cached "/Users/biandrijoubert/Google Drive/R_Projects/OLS_2022/OLS-lawR/learnr"

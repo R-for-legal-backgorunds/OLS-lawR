@@ -1,0 +1,19 @@
+# Answering some of the "why" questions 
+
+This section is intended to create a space for other members of the R-community to contribute their experiences. There are a lot of academic and professional backgrounds that are not typically encouraged or exposed to opportunities to learn programming. For this reason, the "why" is not always apparent and resources for specific backgrounds are not necessarily to come by. 
+
+## What can I use it for? 
+
+## I’m not a statistician, is it still worth it?
+
+## I’m a researcher and I work with documents, is it still worth it? 
+
+## I’m not a researcher, and I work with documents,  is it still worth it?
+
+## Things I underestimated in my journey
+
+## Things I overestimated
+
+## Things that finally made sense and made it all worth it!
+
+

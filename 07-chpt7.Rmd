@@ -1,0 +1,11 @@
+# Resources for trainers, tutors or lecturers teaching R to people with legal backgrounds
+
+## Legislation data set 
+
+This is a data set derived from some well known legislation that is commonly referred to in legal education or training in South Africa.
+
+## The state capture report 
+
+This is a report that is publicaly avaliable in South Africa. 
+
+## Links ot useful training material and youtube videos 

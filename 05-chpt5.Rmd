@@ -1,0 +1,20 @@
+# Templates that make R a dream to use 
+
+## The lawR() package for South African law journal templates
+
+### How to install it 
+
+### How to use it 
+
+### Here's a youtube video to show why journal templates are great to use (even for law journals)
+
+### South African Law Journals 
+
+#### NWU (ENGLISH/AFRIKAANS)
+
+#### TUKS (ENGLISH/AFRIKAANS)
+
+#### STELLENBOSCH (ENGLISH/AFRIKAANS)
+
+
+

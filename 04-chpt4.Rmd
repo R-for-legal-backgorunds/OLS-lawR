@@ -1,0 +1,3 @@
+# Examples of what you can do with R when working with documents 
+
+
