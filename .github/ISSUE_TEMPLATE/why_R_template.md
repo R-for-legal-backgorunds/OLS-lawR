@@ -1,6 +1,6 @@
 ---
-name:  
-about: 
+name:  Biandri 
+about: XYZ
 ---
 
 - [ ] Yes 
